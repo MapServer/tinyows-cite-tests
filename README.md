@@ -1,4 +1,4 @@
-tinyows-tests
-=============
+tinyows-cite-tests
+==================
 
-TinyOWS test suite
+TinyOWS OGC CITE test suite
